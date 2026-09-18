@@ -96,6 +96,7 @@
     }
 
     .price small {
+      color: #cf2d30;
       font-size: 18px;
       font-weight: 700;
       letter-spacing: 0;
@@ -141,7 +142,7 @@
     .tip {
       margin: 14px 0 0;
       font-size: 13px;
-      color: #999;
+      color: #666;
     }
   `;
   document.head.appendChild(style);
