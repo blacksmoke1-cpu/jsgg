@@ -3,7 +3,7 @@
   // ========== 配置区 ==========
   const config = {
     // 免费注册按钮的跳转链接（替换成你的实际地址）
-    registerUrl: 'https://3w.tangguoyun.xyz/#/register?code=S760PyTl',
+    registerUrl: 'https://112233.xn--54q85l.xyz/#/register',
     // 倒计时秒数https://112233.xn--54q85l.xyz/#/registerhttps://3w.tangguoyun.xyz/#/register?code=S760PyTl
     countdown: 30,
     // 价格文案
